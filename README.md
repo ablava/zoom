@@ -1,2 +1,2 @@
 # zoom
-User management using Zoom Admin API
+User management using Zoom API
